@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-09-15T05:54:40.072Z",
+  "feeds": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News",
+      "ok": true,
+      "items": 32
+    },
+    {
+      "id": "bbc-africa",
+      "name": "BBC News",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "id": "bbc-asia",
+      "name": "BBC News",
+      "ok": true,
+      "items": 17
+    },
+    {
+      "id": "bbc-europe",
+      "name": "BBC News",
+      "ok": true,
+      "items": 22
+    },
+    {
+      "id": "bbc-middle-east",
+      "name": "BBC News",
+      "ok": true,
+      "items": 26
+    },
+    {
+      "id": "bbc-latin-america",
+      "name": "BBC News",
+      "ok": true,
+      "items": 17
+    },
+    {
+      "id": "bbc-us-canada",
+      "name": "BBC News",
+      "ok": true,
+      "items": 22
+    },
+    {
+      "id": "bbc-australia",
+      "name": "BBC News",
+      "ok": true,
+      "items": 17
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "id": "guardian-world",
+      "name": "The Guardian",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "id": "dw-world",
+      "name": "DW",
+      "ok": true,
+      "items": 13
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "ok": true,
+      "items": 23
+    },
+    {
+      "id": "npr-world",
+      "name": "NPR",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "id": "cbc-world",
+      "name": "CBC News",
+      "ok": false,
+      "items": 0,
+      "error": "Request timed out after 20000ms"
+    },
+    {
+      "id": "abc-au-world",
+      "name": "ABC News (AU)",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "id": "allafrica",
+      "name": "AllAfrica",
+      "ok": true,
+      "items": 32
+    },
+    {
+      "id": "gnews-russia-ukraine",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-israel-palestine",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-iran",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-sudan",
+      "name": "Google News",
+      "ok": true,
+      "items": 63
+    },
+    {
+      "id": "gnews-myanmar",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-sahel",
+      "name": "Google News",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "id": "gnews-drc",
+      "name": "Google News",
+      "ok": true,
+      "items": 48
+    },
+    {
+      "id": "gnews-yemen",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-syria",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-haiti",
+      "name": "Google News",
+      "ok": true,
+      "items": 71
+    },
+    {
+      "id": "gnews-korea",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "id": "gnews-india-pakistan",
+      "name": "Google News",
+      "ok": true,
+      "items": 100
+    }
+  ],
+  "totalArticles": 1231,
+  "newArticles": 34
+}

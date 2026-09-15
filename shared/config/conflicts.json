@@ -1,0 +1,520 @@
+[
+  {
+    "id": "russia-ukraine",
+    "name": "Russia–Ukraine War",
+    "parties": "Russia vs. Ukraine",
+    "description": "Full-scale war since February 2022, following the 2014 annexation of Crimea.",
+    "epicenter": {
+      "lat": 49,
+      "lon": 32
+    },
+    "match": {
+      "any": [
+        "donbas",
+        "donetsk",
+        "luhansk",
+        "kharkiv",
+        "zaporizh",
+        "kherson",
+        "crimea",
+        "zelensky",
+        "zelenskyy",
+        "bakhmut",
+        "avdiivka",
+        "kursk incursion",
+        "black sea fleet"
+      ],
+      "pairs": [
+        [
+          [
+            "russia",
+            "russian",
+            "moscow",
+            "kremlin",
+            "putin"
+          ],
+          [
+            "ukraine",
+            "ukrainian",
+            "kyiv",
+            "kiev"
+          ]
+        ],
+        [
+          [
+            "ukraine",
+            "ukrainian",
+            "kyiv"
+          ],
+          [
+            "war",
+            "front line",
+            "frontline",
+            "drone",
+            "missile",
+            "offensive",
+            "counteroffensive",
+            "ceasefire",
+            "peace talks",
+            "strike",
+            "shelling",
+            "invasion",
+            "occupied",
+            "mobilization",
+            "sanctions"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "israel-palestine",
+    "name": "Israel–Palestine Conflict",
+    "parties": "Israel vs. Hamas / Palestinian factions (Gaza, West Bank) and Hezbollah (Lebanon)",
+    "description": "War in Gaza since October 2023, with spillover into the West Bank and Lebanon.",
+    "epicenter": {
+      "lat": 31.5,
+      "lon": 34.5
+    },
+    "match": {
+      "any": [
+        "gaza",
+        "hamas",
+        "west bank",
+        "rafah",
+        "khan younis",
+        "hezbollah",
+        "hostage deal",
+        "palestinian",
+        "palestinians",
+        "idf",
+        "netanyahu",
+        "ramallah",
+        "unrwa"
+      ],
+      "pairs": [
+        [
+          [
+            "israel",
+            "israeli"
+          ],
+          [
+            "strike",
+            "war",
+            "ceasefire",
+            "hostage",
+            "settler",
+            "lebanon",
+            "offensive",
+            "truce",
+            "aid",
+            "humanitarian"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "iran-tensions",
+    "name": "Iran–US/Israel Tensions",
+    "parties": "Iran vs. United States / Israel",
+    "description": "Escalation over Iran's nuclear program, including the June 2025 strikes on Iranian nuclear sites.",
+    "epicenter": {
+      "lat": 32.5,
+      "lon": 53
+    },
+    "match": {
+      "any": [
+        "irgc",
+        "revolutionary guard",
+        "natanz",
+        "fordow",
+        "isfahan nuclear",
+        "khamenei",
+        "iranian nuclear",
+        "iran nuclear"
+      ],
+      "pairs": [
+        [
+          [
+            "iran",
+            "iranian",
+            "tehran"
+          ],
+          [
+            "strike",
+            "nuclear",
+            "sanctions",
+            "israel",
+            "us ",
+            "u.s.",
+            "united states",
+            "attack",
+            "missile",
+            "drone",
+            "enrichment",
+            "talks",
+            "deal",
+            "retaliation",
+            "proxy"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sudan",
+    "name": "Sudan Civil War",
+    "parties": "Sudanese Armed Forces vs. Rapid Support Forces",
+    "description": "Civil war since April 2023; one of the world's largest humanitarian crises.",
+    "epicenter": {
+      "lat": 15,
+      "lon": 29
+    },
+    "match": {
+      "any": [
+        "rapid support forces",
+        "darfur",
+        "el fasher",
+        "al-fashir",
+        "omdurman",
+        "port sudan",
+        "hemedti",
+        "burhan"
+      ],
+      "pairs": [
+        [
+          [
+            "sudan",
+            "sudanese",
+            "khartoum"
+          ],
+          [
+            "war",
+            "fighting",
+            "famine",
+            "paramilitary",
+            "displaced",
+            "refugee",
+            "massacre",
+            "siege",
+            "army",
+            "militia",
+            "humanitarian",
+            "ceasefire"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "myanmar",
+    "name": "Myanmar Civil War",
+    "parties": "Military junta vs. resistance forces & ethnic armed groups",
+    "description": "Nationwide armed conflict since the February 2021 military coup.",
+    "epicenter": {
+      "lat": 21,
+      "lon": 96
+    },
+    "match": {
+      "any": [
+        "myanmar junta",
+        "tatmadaw",
+        "rakhine",
+        "arakan army",
+        "karen national",
+        "rohingya"
+      ],
+      "pairs": [
+        [
+          [
+            "myanmar",
+            "burma",
+            "burmese",
+            "naypyidaw",
+            "yangon"
+          ],
+          [
+            "junta",
+            "military",
+            "coup",
+            "rebel",
+            "resistance",
+            "airstrike",
+            "fighting",
+            "civil war",
+            "displaced",
+            "offensive",
+            "ethnic armed"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sahel",
+    "name": "Sahel Insurgency",
+    "parties": "Mali / Burkina Faso / Niger juntas vs. jihadist groups (JNIM, IS-Sahel)",
+    "description": "Islamist insurgency and coup-led instability across the central Sahel.",
+    "epicenter": {
+      "lat": 14.5,
+      "lon": 0
+    },
+    "match": {
+      "any": [
+        "jnim",
+        "is-sahel",
+        "islamic state sahel",
+        "wagner in mali",
+        "africa corps",
+        "azawad"
+      ],
+      "pairs": [
+        [
+          [
+            "mali",
+            "burkina faso",
+            "niger ",
+            "sahel",
+            "bamako",
+            "ouagadougou",
+            "niamey"
+          ],
+          [
+            "jihadist",
+            "militant",
+            "attack",
+            "insurgen",
+            "junta",
+            "massacre",
+            "al-qaeda",
+            "islamic state",
+            "ambush",
+            "coup",
+            "wagner"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "drc-m23",
+    "name": "DR Congo & M23 Crisis",
+    "parties": "DR Congo (and allies) vs. M23 rebels / Rwanda tensions",
+    "description": "Renewed M23 offensive in eastern DR Congo and regional tensions with Rwanda.",
+    "epicenter": {
+      "lat": -1.7,
+      "lon": 29.2
+    },
+    "match": {
+      "any": [
+        "m23",
+        "goma",
+        "north kivu",
+        "south kivu",
+        "kivu",
+        "fardc"
+      ],
+      "pairs": [
+        [
+          [
+            "congo",
+            "congolese",
+            "drc",
+            "kinshasa"
+          ],
+          [
+            "rebel",
+            "rwanda",
+            "fighting",
+            "offensive",
+            "displaced",
+            "militia",
+            "peace deal",
+            "ceasefire",
+            "mineral"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "yemen-red-sea",
+    "name": "Yemen & Red Sea Crisis",
+    "parties": "Houthis vs. US/UK/Israel & shipping; Yemeni civil war parties",
+    "description": "Houthi attacks on Red Sea shipping and strikes on Yemen, atop the long-running civil war.",
+    "epicenter": {
+      "lat": 15,
+      "lon": 44.5
+    },
+    "match": {
+      "any": [
+        "houthi",
+        "houthis",
+        "red sea shipping",
+        "hodeidah",
+        "sanaa",
+        "bab el-mandeb",
+        "bab al-mandab"
+      ],
+      "pairs": [
+        [
+          [
+            "yemen",
+            "yemeni"
+          ],
+          [
+            "strike",
+            "war",
+            "attack",
+            "missile",
+            "drone",
+            "shipping",
+            "humanitarian",
+            "famine",
+            "ceasefire"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "syria",
+    "name": "Syria Transition & Instability",
+    "parties": "Transitional government vs. remnant factions; foreign strikes",
+    "description": "Post-Assad transition since December 2024, with sectarian violence and foreign intervention.",
+    "epicenter": {
+      "lat": 35,
+      "lon": 38.5
+    },
+    "match": {
+      "any": [
+        "assad",
+        "hts",
+        "al-sharaa",
+        "jolani",
+        "alawite",
+        "sdf",
+        "syrian democratic forces",
+        "idlib",
+        "latakia"
+      ],
+      "pairs": [
+        [
+          [
+            "syria",
+            "syrian",
+            "damascus",
+            "aleppo"
+          ],
+          [
+            "strike",
+            "clashes",
+            "fighting",
+            "sectarian",
+            "transition",
+            "kurds",
+            "kurdish",
+            "israel",
+            "sanctions",
+            "militants",
+            "violence"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "india-pakistan",
+    "name": "India–Pakistan Tensions",
+    "parties": "India vs. Pakistan (Kashmir)",
+    "description": "Recurring military standoffs over Kashmir, including the May 2025 cross-border clashes.",
+    "epicenter": {
+      "lat": 34,
+      "lon": 74.5
+    },
+    "match": {
+      "any": [
+        "kashmir",
+        "line of control",
+        "loc skirmish",
+        "pahalgam",
+        "operation sindoor"
+      ],
+      "pairs": [
+        [
+          [
+            "india",
+            "indian",
+            "new delhi"
+          ],
+          [
+            "pakistan",
+            "pakistani",
+            "islamabad"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "korean-peninsula",
+    "name": "Korean Peninsula Tensions",
+    "parties": "North Korea vs. South Korea / US / allies",
+    "description": "North Korean weapons tests, troop deployments abroad, and inter-Korean tensions.",
+    "epicenter": {
+      "lat": 38.5,
+      "lon": 127
+    },
+    "match": {
+      "any": [
+        "north korea",
+        "north korean",
+        "n. korea",
+        "n korea",
+        "pyongyang",
+        "kim jong un",
+        "kim jong-un",
+        "dmz",
+        "icbm test"
+      ],
+      "pairs": []
+    }
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti Crisis",
+    "parties": "Gangs vs. government / multinational security mission",
+    "description": "Gang control of Port-au-Prince and state collapse; international security mission ongoing.",
+    "epicenter": {
+      "lat": 18.7,
+      "lon": -72.7
+    },
+    "match": {
+      "any": [
+        "port-au-prince",
+        "haitian gang",
+        "haiti gang",
+        "barbecue gang"
+      ],
+      "pairs": [
+        [
+          [
+            "haiti",
+            "haitian"
+          ],
+          [
+            "gang",
+            "violence",
+            "security mission",
+            "kenya-led",
+            "displaced",
+            "police",
+            "kidnap",
+            "crisis"
+          ]
+        ]
+      ]
+    }
+  }
+]

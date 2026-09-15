@@ -1,0 +1,36 @@
+{
+  "name": "global-tension-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Track world news, armed conflicts, and oil prices with a live Global Tension Index. Built on public RSS feeds, no API keys required.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "collect": "tsx collector/collect.ts",
+    "schedule:install": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/schedule-collect.ps1 install",
+    "schedule:status": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/schedule-collect.ps1 status",
+    "schedule:remove": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/schedule-collect.ps1 remove",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test collector/classify.test.ts collector/store.test.ts collector/sources.test.ts collector/tension.test.ts collector/markets.test.ts collector/marketClock.test.ts"
+  },
+  "dependencies": {
+    "flag-icons": "^7.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7",
+    "world-atlas": "^2.0.2"
+  }
+}
