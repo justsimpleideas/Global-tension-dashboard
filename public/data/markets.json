@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:47:08.960Z",
+  "generatedAt": "2026-09-23T17:11:23.384Z",
   "source": "FRED (EIA daily spot prices)",
   "oil": [
     {
@@ -552,7 +552,7 @@
     }
   ],
   "eia": {
-    "lastRelease": "2026-09-16",
-    "nextRelease": "2026-09-23"
+    "lastRelease": "2026-09-23",
+    "nextRelease": "2026-09-30"
   }
 }
