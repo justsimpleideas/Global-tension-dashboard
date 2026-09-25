@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-25T18:42:17.721Z",
+  "generatedAt": "2026-09-25T22:27:34.408Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 31
+      "items": 33
     },
     {
       "id": "bbc-africa",
@@ -23,7 +23,7 @@
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 24
+      "items": 25
     },
     {
       "id": "bbc-middle-east",
@@ -65,7 +65,7 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "id": "france24",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 100
+      "items": 98
     },
     {
       "id": "gnews-myanmar",
@@ -138,7 +138,7 @@
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 98
+      "items": 100
     },
     {
       "id": "gnews-yemen",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 400
+  "newArticles": 260
 }
