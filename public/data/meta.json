@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T01:23:55.307Z",
+  "generatedAt": "2026-10-12T09:21:46.849Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 26
+      "items": 23
     },
     {
       "id": "bbc-africa",
@@ -17,19 +17,19 @@
       "id": "bbc-asia",
       "name": "BBC News",
       "ok": true,
-      "items": 18
+      "items": 17
     },
     {
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 24
+      "items": 23
     },
     {
       "id": "bbc-middle-east",
       "name": "BBC News",
       "ok": true,
-      "items": 33
+      "items": 35
     },
     {
       "id": "bbc-latin-america",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 26
+      "items": 21
     },
     {
       "id": "bbc-australia",
@@ -96,7 +96,7 @@
       "id": "allafrica",
       "name": "AllAfrica",
       "ok": true,
-      "items": 30
+      "items": 31
     },
     {
       "id": "gnews-russia-ukraine",
@@ -108,7 +108,7 @@
       "id": "gnews-israel-palestine",
       "name": "Google News",
       "ok": true,
-      "items": 100
+      "items": 99
     },
     {
       "id": "gnews-iran",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 41
+      "items": 50
     },
     {
       "id": "gnews-myanmar",
@@ -132,13 +132,13 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 3
+      "items": 4
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 44
+      "items": 45
     },
     {
       "id": "gnews-yemen",
@@ -156,7 +156,7 @@
       "id": "gnews-haiti",
       "name": "Google News",
       "ok": true,
-      "items": 56
+      "items": 48
     },
     {
       "id": "gnews-korea",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 171
+  "newArticles": 557
 }
