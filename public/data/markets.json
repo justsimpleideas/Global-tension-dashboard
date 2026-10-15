@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:21:03.460Z",
+  "generatedAt": "2026-10-15T01:32:39.468Z",
   "source": "FRED (EIA daily spot prices)",
   "oil": [
     {
@@ -10,10 +10,6 @@
       "change": -0.07,
       "changePct": -0.06,
       "series": [
-        {
-          "date": "2026-07-06",
-          "close": 69.56
-        },
         {
           "date": "2026-07-07",
           "close": 71.78

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:21:03.460Z",
+  "generatedAt": "2026-10-15T01:32:39.468Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 26
     },
     {
       "id": "bbc-australia",
@@ -132,7 +132,7 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "id": "gnews-drc",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 277
+  "newArticles": 193
 }
