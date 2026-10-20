@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T18:30:46.291Z",
+  "generatedAt": "2026-10-20T22:22:19.361Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 35
+      "items": 33
     },
     {
       "id": "bbc-africa",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 22
     },
     {
       "id": "bbc-australia",
@@ -138,7 +138,7 @@
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 58
+      "items": 54
     },
     {
       "id": "gnews-yemen",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 405
+  "newArticles": 290
 }
