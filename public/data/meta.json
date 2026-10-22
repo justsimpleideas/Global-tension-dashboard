@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:25:51.164Z",
+  "generatedAt": "2026-10-22T01:35:31.149Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -41,13 +41,13 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 24
     },
     {
       "id": "bbc-australia",
       "name": "BBC News",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "id": "aljazeera",
@@ -132,13 +132,13 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 13
+      "items": 27
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 33
+      "items": 46
     },
     {
       "id": "gnews-yemen",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 293
+  "newArticles": 189
 }
