@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:40:42.726Z",
+  "generatedAt": "2026-10-24T19:32:19.617Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -23,7 +23,7 @@
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 25
+      "items": 22
     },
     {
       "id": "bbc-middle-east",
@@ -138,7 +138,7 @@
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 82
+      "items": 100
     },
     {
       "id": "gnews-yemen",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 285
+  "newArticles": 184
 }
