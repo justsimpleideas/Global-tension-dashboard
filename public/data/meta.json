@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-30T05:58:28.008Z",
+  "generatedAt": "2026-10-30T13:06:58.248Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 27
+      "items": 36
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 36
+      "items": 31
     },
     {
       "id": "bbc-asia",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 390
+  "newArticles": 532
 }
