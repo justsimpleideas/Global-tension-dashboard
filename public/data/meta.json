@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-04T09:25:51.207Z",
+  "generatedAt": "2026-11-04T18:02:42.575Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 25
+      "items": 23
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 32
+      "items": 31
     },
     {
       "id": "bbc-asia",
@@ -23,13 +23,13 @@
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 21
+      "items": 23
     },
     {
       "id": "bbc-middle-east",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 24
     },
     {
       "id": "bbc-latin-america",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 21
     },
     {
       "id": "bbc-australia",
@@ -65,13 +65,14 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 11
+      "items": 13
     },
     {
       "id": "france24",
       "name": "France 24",
-      "ok": true,
-      "items": 24
+      "ok": false,
+      "items": 0,
+      "error": "Status code 403"
     },
     {
       "id": "npr-world",
@@ -120,7 +121,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 34
+      "items": 39
     },
     {
       "id": "gnews-myanmar",
@@ -132,13 +133,13 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 4
+      "items": 6
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 55
+      "items": 66
     },
     {
       "id": "gnews-yemen",
@@ -156,13 +157,13 @@
       "id": "gnews-haiti",
       "name": "Google News",
       "ok": true,
-      "items": 100
+      "items": 79
     },
     {
       "id": "gnews-korea",
       "name": "Google News",
       "ok": true,
-      "items": 99
+      "items": 100
     },
     {
       "id": "gnews-india-pakistan",
@@ -172,5 +173,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 450
+  "newArticles": 583
 }
