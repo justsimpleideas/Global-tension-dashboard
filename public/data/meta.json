@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-05T22:04:50.391Z",
+  "generatedAt": "2026-11-06T02:32:13.987Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 33
+      "items": 34
     },
     {
       "id": "bbc-asia",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 24
     },
     {
       "id": "bbc-australia",
@@ -101,76 +101,88 @@
     {
       "id": "gnews-russia-ukraine",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-israel-palestine",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-iran",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-sudan",
       "name": "Google News",
-      "ok": true,
-      "items": 54
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-myanmar",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-sahel",
       "name": "Google News",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
-      "ok": true,
-      "items": 85
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-yemen",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-syria",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-haiti",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-korea",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     },
     {
       "id": "gnews-india-pakistan",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 503"
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 438
+  "newArticles": 51
 }
