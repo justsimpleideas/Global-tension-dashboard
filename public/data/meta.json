@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:44:21.457Z",
+  "generatedAt": "2026-11-08T07:27:50.630Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 28
+      "items": 29
     },
     {
       "id": "bbc-australia",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 45
+      "items": 41
     },
     {
       "id": "gnews-myanmar",
@@ -162,7 +162,7 @@
       "id": "gnews-korea",
       "name": "Google News",
       "ok": true,
-      "items": 100
+      "items": 95
     },
     {
       "id": "gnews-india-pakistan",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 147
+  "newArticles": 321
 }
