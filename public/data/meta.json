@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-11-09T08:04:14.776Z",
+  "generatedAt": "2026-11-09T18:53:34.140Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 28
+      "items": 24
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 29
     },
     {
       "id": "bbc-asia",
       "name": "BBC News",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 26
+      "items": 30
     },
     {
       "id": "bbc-middle-east",
       "name": "BBC News",
       "ok": true,
-      "items": 24
+      "items": 26
     },
     {
       "id": "bbc-latin-america",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 32
+      "items": 24
     },
     {
       "id": "bbc-australia",
@@ -65,7 +65,7 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "id": "france24",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 43
+      "items": 50
     },
     {
       "id": "gnews-myanmar",
@@ -132,13 +132,13 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 2
+      "items": 5
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 52
+      "items": 50
     },
     {
       "id": "gnews-yemen",
@@ -156,13 +156,13 @@
       "id": "gnews-haiti",
       "name": "Google News",
       "ok": true,
-      "items": 58
+      "items": 63
     },
     {
       "id": "gnews-korea",
       "name": "Google News",
       "ok": true,
-      "items": 77
+      "items": 100
     },
     {
       "id": "gnews-india-pakistan",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 419
+  "newArticles": 716
 }
