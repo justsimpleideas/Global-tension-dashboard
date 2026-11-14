@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:39:23.593Z",
+  "generatedAt": "2026-11-14T06:39:07.228Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 21
+      "items": 23
     },
     {
       "id": "bbc-australia",
@@ -65,7 +65,7 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "id": "france24",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 47
+      "items": 45
     },
     {
       "id": "gnews-myanmar",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 364
+  "newArticles": 310
 }
