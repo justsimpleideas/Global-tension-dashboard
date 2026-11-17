@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:15:49.512Z",
+  "generatedAt": "2026-11-17T04:37:28.989Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 24
     },
     {
       "id": "bbc-australia",
@@ -101,8 +101,9 @@
     {
       "id": "gnews-russia-ukraine",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-israel-palestine",
@@ -121,7 +122,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 48
+      "items": 52
     },
     {
       "id": "gnews-myanmar",
@@ -132,8 +133,9 @@
     {
       "id": "gnews-sahel",
       "name": "Google News",
-      "ok": true,
-      "items": 7
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-drc",
@@ -144,9 +146,8 @@
     {
       "id": "gnews-yemen",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 100
     },
     {
       "id": "gnews-syria",
@@ -157,14 +158,16 @@
     {
       "id": "gnews-haiti",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-korea",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-india-pakistan",
@@ -174,5 +177,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 587
+  "newArticles": 287
 }
