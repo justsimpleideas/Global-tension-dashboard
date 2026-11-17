@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:37:28.989Z",
+  "generatedAt": "2026-11-17T14:35:49.686Z",
   "feeds": [
     {
       "id": "bbc-world",
@@ -11,19 +11,19 @@
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 31
     },
     {
       "id": "bbc-asia",
       "name": "BBC News",
       "ok": true,
-      "items": 17
+      "items": 16
     },
     {
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 22
     },
     {
       "id": "bbc-middle-east",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 24
+      "items": 23
     },
     {
       "id": "bbc-australia",
@@ -65,7 +65,7 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 11
+      "items": 13
     },
     {
       "id": "france24",
@@ -101,16 +101,14 @@
     {
       "id": "gnews-russia-ukraine",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 100
     },
     {
       "id": "gnews-israel-palestine",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 100
     },
     {
       "id": "gnews-iran",
@@ -122,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 52
+      "items": 63
     },
     {
       "id": "gnews-myanmar",
@@ -133,15 +131,14 @@
     {
       "id": "gnews-sahel",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 3
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 91
+      "items": 100
     },
     {
       "id": "gnews-yemen",
@@ -158,16 +155,14 @@
     {
       "id": "gnews-haiti",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 100
     },
     {
       "id": "gnews-korea",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 100
     },
     {
       "id": "gnews-india-pakistan",
@@ -177,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 287
+  "newArticles": 785
 }
