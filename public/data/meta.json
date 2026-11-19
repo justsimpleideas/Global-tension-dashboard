@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T22:04:39.012Z",
+  "generatedAt": "2026-11-19T03:38:17.827Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 34
+      "items": 33
     },
     {
       "id": "bbc-africa",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 83
+      "items": 86
     },
     {
       "id": "gnews-myanmar",
@@ -132,7 +132,7 @@
       "id": "gnews-sahel",
       "name": "Google News",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "id": "gnews-drc",
@@ -172,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 580
+  "newArticles": 351
 }
