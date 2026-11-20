@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-20T03:31:29.578Z",
+  "generatedAt": "2026-11-20T13:05:43.783Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 36
+      "items": 37
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 31
+      "items": 29
     },
     {
       "id": "bbc-asia",
@@ -23,7 +23,7 @@
       "id": "bbc-europe",
       "name": "BBC News",
       "ok": true,
-      "items": 22
+      "items": 24
     },
     {
       "id": "bbc-middle-east",
@@ -41,7 +41,7 @@
       "id": "bbc-us-canada",
       "name": "BBC News",
       "ok": true,
-      "items": 28
+      "items": 30
     },
     {
       "id": "bbc-australia",
@@ -65,7 +65,7 @@
       "id": "dw-world",
       "name": "DW",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "id": "france24",
@@ -120,7 +120,7 @@
       "id": "gnews-sudan",
       "name": "Google News",
       "ok": true,
-      "items": 74
+      "items": 53
     },
     {
       "id": "gnews-myanmar",
@@ -131,15 +131,14 @@
     {
       "id": "gnews-sahel",
       "name": "Google News",
-      "ok": false,
-      "items": 0,
-      "error": "Status code 429"
+      "ok": true,
+      "items": 8
     },
     {
       "id": "gnews-drc",
       "name": "Google News",
       "ok": true,
-      "items": 67
+      "items": 39
     },
     {
       "id": "gnews-yemen",
@@ -173,5 +172,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 311
+  "newArticles": 612
 }
