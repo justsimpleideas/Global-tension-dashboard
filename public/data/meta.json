@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-27T15:13:36.011Z",
+  "generatedAt": "2026-11-27T23:31:45.070Z",
   "feeds": [
     {
       "id": "bbc-world",
       "name": "BBC News",
       "ok": true,
-      "items": 28
+      "items": 22
     },
     {
       "id": "bbc-africa",
       "name": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 32
     },
     {
       "id": "bbc-asia",
@@ -108,20 +108,23 @@
     {
       "id": "gnews-israel-palestine",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-iran",
       "name": "Google News",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-sudan",
       "name": "Google News",
-      "ok": true,
-      "items": 53
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-myanmar",
@@ -132,8 +135,9 @@
     {
       "id": "gnews-sahel",
       "name": "Google News",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "items": 0,
+      "error": "Status code 429"
     },
     {
       "id": "gnews-drc",
@@ -157,7 +161,7 @@
       "id": "gnews-haiti",
       "name": "Google News",
       "ok": true,
-      "items": 74
+      "items": 77
     },
     {
       "id": "gnews-korea",
@@ -173,5 +177,5 @@
     }
   ],
   "totalArticles": 3000,
-  "newArticles": 674
+  "newArticles": 371
 }
